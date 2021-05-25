@@ -1,0 +1,9 @@
+html, body, .hello_world {
+    height: 100%;
+    background-color: aliceblue;
+}
+.hello_world {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
